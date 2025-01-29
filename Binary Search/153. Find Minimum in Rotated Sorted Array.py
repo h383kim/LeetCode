@@ -1,5 +1,5 @@
 ################################################################
-# Difficulty: Easy
+# Difficulty: Medium
 # Problem Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 ################################################################
 
